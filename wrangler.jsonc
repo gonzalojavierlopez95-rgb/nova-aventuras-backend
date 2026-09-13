@@ -1,0 +1,12 @@
+{
+  "name": "nova-aventuras-api",
+  "main": "worker.js",
+  "compatibility_date": "2025-01-01",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "nova_aventuras_db",
+      "database_id": "fc815c3a-d77a-4a23-adf7-5aa27bd0acf8"
+    }
+  ]
+}
